@@ -4,7 +4,10 @@ Hi uesrs! I am greeting you in README.md.
 First of all, the Python-requirements:
 Python3, Django version 3.2.4
 
-This site was made with Django-technology, accordingly you sould open cmd. Move to package with project(with cd 'package/'), then execute '''bash python manage.py runserver' '''.
+This site was made with Django-technology, accordingly you sould open cmd. Move to package with project(with cd 'package/'), then execute 
+```bash
+python manage.py runserver'
+```
 Terminal was type the address of server.
 
 There are 4 web-pages with different meaning. Main webpage - the simple greeting page, there are menu and jpg-file. 
